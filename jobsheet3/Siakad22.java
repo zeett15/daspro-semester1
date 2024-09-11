@@ -29,7 +29,7 @@ public class Siakad22 {
         System.out.println("Masukan niai ujian");
         nilaiUjjian = sc.nextDouble();
 
-        nialiAkhir = (nilaiKuis + nilaiTugas + nilaiUjjian) / 3zeta;
+        nialiAkhir = (nilaiKuis + nilaiTugas + nilaiUjjian) / 3;
 
         System.out.println("Nama :" + nama + " NIM: " + nim);
         System.out.println("Kelas: " + kelas + " Absen: " + absen);

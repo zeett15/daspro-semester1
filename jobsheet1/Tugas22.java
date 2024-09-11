@@ -1,4 +1,4 @@
-package SorceCode.java;
+package jobsheet1;
 
 /**
  * Tugas22
