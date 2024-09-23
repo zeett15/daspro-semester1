@@ -15,10 +15,6 @@ public class TotalTagihanListrik {
 
        boolean pengecekan = jumlahKwh > 500;
        System.out.println(pengecekan);
-
-
-
-
-        
+     
     }
 }

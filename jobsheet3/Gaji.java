@@ -17,10 +17,5 @@ public class Gaji {
         gajiBersih = gajiKotor * potongPajak;
 
         System.out.println("hasil gaji: " + totalGaaji);
-
-        
-
-        
-
     }
 }
