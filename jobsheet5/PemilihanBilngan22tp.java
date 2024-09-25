@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * PemilihanBilngan22
  */
-public class PemilihanBilngan22 {
+public class PemilihanBilngan22tp {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
