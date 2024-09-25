@@ -12,14 +12,11 @@ public class PemilihanBilngan22 {
 
         int angka;
 
+
         System.out.print("Masukan Angka");
         angka = sc.nextInt();
 
-        if (angka % 2 == 0) {
-            System.out.println(angka + "adalah Genap");
-            
-        }else {
-            System.out.println(angka +"adalah Ganjil");
-        }
+    String hasil = (angka % 2 == 0) ? "genap" : "ganjil";
+    System.out.println(hasil);
     }
 }
