@@ -70,7 +70,6 @@ public class Siakad22 {
             kualifikasi = "Gagal";
         }
 
-        // Display results
         System.out.println("Nama: " + nama + " NIM: " + nim);
         System.out.println("Kelas: " + kelas + " Absen: " + absen);
         System.out.println("Nilai Akhir: " + nilaiAkhir);
